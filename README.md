@@ -1,2 +1,9 @@
-# Holy-Grail-Email-Blueprint
-Holy Grail Email Blueprint
+# Holy Grail E-mail-Blueprint
+Do more with less.
+
+## Features
+
+## Template
+
+## Tested
+
