@@ -3,7 +3,7 @@ Do more with less.
 
 ## Features
 
-## Template
+## How to use
 
 ## Tested
 
